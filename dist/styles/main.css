@@ -83,7 +83,7 @@ html {
             html body .wrapper .content .header .menu .header_menu li:last-child {
               margin-right: 0; }
         html body .wrapper .content .header .header_img {
-          background: url("../images/header_img.png") no-repeat center;
+          background: url("../images/header_img.jpg") no-repeat center;
           background-size: cover;
           height: 464px; }
         html body .wrapper .content .main .container {
